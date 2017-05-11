@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_0">0</string>
+    <string name="btn_p">.</string>
+    <string name="btn_del">删除</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_clear">清零</string>
+
+    <drawable name="num_normal">#1d1d1d</drawable>//
+    <drawable name="num_pressed">#32ffffff</drawable>
+    <drawable name="symbol_normal">#202023</drawable>//
+    <drawable name="symbol_pressed">#32ffffff</drawable>
+    <drawable name="equals_normal">#39393b</drawable>//
+    <drawable name="equals_pressed">#32ffffff</drawable>
+</resources>
